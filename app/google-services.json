@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614618590460",
+    "project_id": "gabriel-ifpb-430d0",
+    "storage_bucket": "gabriel-ifpb-430d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614618590460:android:cf31f6fa951f0cc09c3b79",
+        "android_client_info": {
+          "package_name": "com.example.navegacao1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwDXuFJDgjDIrAvaNFnxXmnWKp71HVp1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
